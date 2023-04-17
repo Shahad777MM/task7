@@ -1,0 +1,74 @@
+*{margin: 0;
+    padding: 0;
+}
+body {
+    background-color: aqua;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 10px 16px;
+    margin-bottom: 16px;
+}
+
+.navbar-logo{
+    color: white;
+    font-size: 20px;
+}
+
+.navbar-menu{
+    display: flex;
+    list-style-type:none ;
+    gap: 30px;
+    margin: 0;
+    align-items: center;
+}
+
+.navbar-menu li a{
+    text-decoration: none;
+    color: white;
+}
+.add{
+color: rebeccapurple;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: initial;
+
+
+}
+.ADD{
+    color: brown;
+
+}
+.rose{
+
+    color: rebeccapurple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: initial;
+}
+
+
+
+
+
+
+.sun{
+    color: bisque;
+    
+    width: 80px;
+    height: 80px;
+    
+    
+}
+.imag{
+    position: static;
+    width:500;
+    height: 300px;
+}
+.phone{
+    color: black;
+    font-size: 50px;
+}
+.email{
+    font-size: 50px;
+}
